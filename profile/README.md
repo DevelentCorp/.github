@@ -50,7 +50,7 @@ Looking for a software partner to take your idea or system to the next level?
 
 - 🌐 Website: [www.develentcorp.com](https://www.develentcorp.com)  
 - 🐙 GitHub: [github.com/DevelentCorp](https://github.com/DevelentCorp)  
-- ✉️ Contact: `hello@develentcorp.com`  
+- ✉️ Contact: `contact@develentcorp.com`  
 
 ---
 
